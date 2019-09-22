@@ -1,5 +1,5 @@
-/home/toddg/proj/energy-dashboard/data/data-oasis-prc-cd-rtm-flowgate-rtm/sql/20190919_20190920_PRC_CD_RTM_FLOWGATE_RTM_20190922_11_06_35_v1.sql
-/home/toddg/proj/energy-dashboard/data/data-oasis-prc-cd-rtm-flowgate-rtm/sql/20190918_20190919_PRC_CD_RTM_FLOWGATE_RTM_20190922_11_06_30_v1.sql
-/home/toddg/proj/energy-dashboard/data/data-oasis-prc-cd-rtm-flowgate-rtm/sql/20190917_20190918_PRC_CD_RTM_FLOWGATE_RTM_20190922_11_06_25_v1.sql
-/home/toddg/proj/energy-dashboard/data/data-oasis-prc-cd-rtm-flowgate-rtm/sql/20190916_20190917_PRC_CD_RTM_FLOWGATE_RTM_20190922_11_06_20_v1.sql
-/home/toddg/proj/energy-dashboard/data/data-oasis-prc-cd-rtm-flowgate-rtm/sql/20190920_20190921_PRC_CD_RTM_FLOWGATE_RTM_20190922_11_06_40_v1.sql
+20190916_20190917_PRC_CD_RTM_FLOWGATE_RTM_20190922_11_06_20_v1.sql
+20190918_20190919_PRC_CD_RTM_FLOWGATE_RTM_20190922_11_06_30_v1.sql
+20190917_20190918_PRC_CD_RTM_FLOWGATE_RTM_20190922_11_06_25_v1.sql
+20190919_20190920_PRC_CD_RTM_FLOWGATE_RTM_20190922_11_06_35_v1.sql
+20190920_20190921_PRC_CD_RTM_FLOWGATE_RTM_20190922_11_06_40_v1.sql
